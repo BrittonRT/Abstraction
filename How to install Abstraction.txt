@@ -1,0 +1,13 @@
+To install Abstraction on a webserver, your server must meet the following requirements:
+	Apache Webserver
+	PHP
+
+USING FTP	
+	
+1. Use an FTP program (such as FileZilla - http://filezilla-project.org/) to upload the builder directory to your server. Place it in the directory your home page will appear, or in any directory you want to access and edit.
+
+2. Go to the builder's url. (e.g. www.YourWebsite.com/builder)
+
+3. Create a username and password. This will log you in to the builder. 
+
+4. That's it.

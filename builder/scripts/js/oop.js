@@ -1,0 +1,2 @@
+// Abstraction Builder v.1.0 Beta - Abstract Method © 2009-2011. "Abstraction" is a trademark of Abstract Method //
+Function.prototype.Inherits=function(a){this.prototype=new a();this.prototype.constructor=this};
